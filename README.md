@@ -5,7 +5,9 @@ Play prop hunt headshot now available in portrait orientation for Android
 ![ic_launcher.png](icon.png)  
 
 
-![rec](recording.gif)   
+
+
+<img src="recording.gif" style="width: 230px;">
 
 
 
